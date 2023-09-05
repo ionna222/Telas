@@ -8,7 +8,7 @@ body #container {
     margin: auto;
     width: 400px;
     height: 800px;
-    background-color: #cec5c5;
+    background-color: #e6dddd;
 }
 
 header #img-fundo {
@@ -115,4 +115,35 @@ header #img-fundo {
     margin-left: 285px;
     margin-top: -70px;
     margin-bottom: 22px;
+}
+
+#slide-mont {
+    width: 140px;
+    height: 140px;
+    margin-left: 340px;
+    margin-bottom: 72px;
+    margin-top: -200px;
+    border-radius: 5px 5px 0 0;
+}
+
+#montanhas {
+    color: rgb(63, 60, 60);
+    text-transform: capitalize;
+    width: 125px;
+    height: 30px;
+    background-color: #FFFFFF;
+    border-radius: 0 0 5px 5px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 340px;
+    margin-top: -77px;
+    padding-left: 15px;
+    padding-top: 10px;
+    box-shadow: 0 4px 8px 0 rgb(0, 0, 0, 0.2);
+}
+
+#footer {
+    width: 400px;
+    height: 125px;
+    background-color: #222222;
+
 }
